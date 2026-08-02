@@ -5,13 +5,13 @@ Plataforma SaaS de administración de consorcios (Argentina · CABA como context
 ## Índice
 
 - **Arquitectura**
-  - [Overview del sistema](./architecture/overview.md) — mapa de contenedores y cómo se hablan.
-  - [Stack reference](./architecture/stack-reference.md) — tecnologías cerradas y rol de cada una.
+  - [Overview del sistema](./docs/architecture/overview.md) — mapa de contenedores y cómo se hablan.
+  - [Stack reference](./docs/architecture/stack-reference.md) — tecnologías cerradas y rol de cada una.
 - **Decisiones (ADR)**
-  - [Índice de ADRs](./adr/README.md)
-  - [Decisiones diferidas](./adr/deferred-decisions.md) — reconocidas pero pospuestas.
+  - [Índice de ADRs](./docs/adr/README.md)
+  - [Decisiones diferidas](./docs/adr/deferred-decisions.md) — reconocidas pero pospuestas.
 - **Dominio**
-  - [Glosario](./domain/glossary.md) — lenguaje ubicuo del dominio.
+  - [Glosario](./docs/domain/glossary.md) — lenguaje ubicuo del dominio.
 
 ## Convención de documentación
 
